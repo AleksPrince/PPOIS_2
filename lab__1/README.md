@@ -18,17 +18,7 @@
 
 ---
 
-##  Установка и запуск
 
-### Требования
+
+## Требования
 - Python 3.8 или выше
-
-### Установка
-
-```bash
-# Клонировать репозиторий
-git clone https://github.com/username/computer-model.git
-cd computer-model
-
-# Запустить программу
-python main.py
