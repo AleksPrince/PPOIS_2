@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <students>
+    <student>
+      <full_name>Иванов Иван Иванович</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>15</total_works>
+      <completed_works>12</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Петров Петр Петрович</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>12</total_works>
+      <completed_works>10</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Сидорова Анна Михайловна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>20</total_works>
+      <completed_works>18</completed_works>
+      <programming_language>C++</programming_language>
+    </student>
+    <student>
+      <full_name>Козлов Дмитрий Сергеевич</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>10</total_works>
+      <completed_works>8</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Смирнова Елена Александровна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>15</total_works>
+      <completed_works>15</completed_works>
+      <programming_language>JavaScript</programming_language>
+    </student>
+    <student>
+      <full_name>Васильев Алексей Николаевич</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>25</total_works>
+      <completed_works>20</completed_works>
+      <programming_language>C#</programming_language>
+    </student>
+    <student>
+      <full_name>Михайлова Ольга Викторовна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>12</total_works>
+      <completed_works>9</completed_works>
+      <programming_language>PHP</programming_language>
+    </student>
+    <student>
+      <full_name>Федоров Артем Игоревич</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>20</total_works>
+      <completed_works>17</completed_works>
+      <programming_language>Ruby</programming_language>
+    </student>
+    <student>
+      <full_name>Николаева Татьяна Павловна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>15</total_works>
+      <completed_works>14</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Александров Максим Денисович</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>10</total_works>
+      <completed_works>7</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Кузнецова Екатерина Владимировна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>12</total_works>
+      <completed_works>11</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Морозов Денис Алексеевич</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>15</total_works>
+      <completed_works>13</completed_works>
+      <programming_language>Swift</programming_language>
+    </student>
+    <student>
+      <full_name>Волкова Анастасия Сергеевна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>20</total_works>
+      <completed_works>16</completed_works>
+      <programming_language>Kotlin</programming_language>
+    </student>
+    <student>
+      <full_name>Зайцев Андрей Игоревич</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>10</total_works>
+      <completed_works>9</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Соколова Мария Александровна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>12</total_works>
+      <completed_works>8</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Новиков Павел Дмитриевич</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>15</total_works>
+      <completed_works>12</completed_works>
+      <programming_language>C++</programming_language>
+    </student>
+    <student>
+      <full_name>Орлова Ксения Владимировна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>20</total_works>
+      <completed_works>19</completed_works>
+      <programming_language>Rust</programming_language>
+    </student>
+    <student>
+      <full_name>Макаров Артем Сергеевич</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>25</total_works>
+      <completed_works>22</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Попова Юлия Андреевна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>10</total_works>
+      <completed_works>10</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Лебедев Константин Николаевич</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>12</total_works>
+      <completed_works>10</completed_works>
+      <programming_language>JavaScript</programming_language>
+    </student>
+    <student>
+      <full_name>Егорова Светлана Павловна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>15</total_works>
+      <completed_works>14</completed_works>
+      <programming_language>C#</programming_language>
+    </student>
+    <student>
+      <full_name>Павлов Роман Игоревич</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>20</total_works>
+      <completed_works>15</completed_works>
+      <programming_language>PHP</programming_language>
+    </student>
+    <student>
+      <full_name>Семенова Ирина Викторовна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>25</total_works>
+      <completed_works>23</completed_works>
+      <programming_language>Ruby</programming_language>
+    </student>
+    <student>
+      <full_name>Виноградов Алексей Алексеевич</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>10</total_works>
+      <completed_works>6</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Крылова Дарья Дмитриевна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>12</total_works>
+      <completed_works>12</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Медведев Дмитрий Сергеевич</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>15</total_works>
+      <completed_works>13</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Тихонова Анна Александровна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>20</total_works>
+      <completed_works>18</completed_works>
+      <programming_language>JavaScript</programming_language>
+    </student>
+    <student>
+      <full_name>Борисов Сергей Владимирович</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>25</total_works>
+      <completed_works>21</completed_works>
+      <programming_language>C++</programming_language>
+    </student>
+    <student>
+      <full_name>Фролова Татьяна Николаевна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>10</total_works>
+      <completed_works>8</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Комаров Александр Игоревич</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>12</total_works>
+      <completed_works>9</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Белова Наталья Петровна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>15</total_works>
+      <completed_works>15</completed_works>
+      <programming_language>Kotlin</programming_language>
+    </student>
+    <student>
+      <full_name>Степанов Олег Викторович</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>20</total_works>
+      <completed_works>16</completed_works>
+      <programming_language>Swift</programming_language>
+    </student>
+    <student>
+      <full_name>Карпова Юлия Сергеевна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>25</total_works>
+      <completed_works>24</completed_works>
+      <programming_language>PHP</programming_language>
+    </student>
+    <student>
+      <full_name>Григорьев Артем Дмитриевич</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>10</total_works>
+      <completed_works>5</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Фомина Анна Владимировна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>12</total_works>
+      <completed_works>11</completed_works>
+      <programming_language>Ruby</programming_language>
+    </student>
+    <student>
+      <full_name>Дмитриев Илья Андреевич</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>15</total_works>
+      <completed_works>14</completed_works>
+      <programming_language>C#</programming_language>
+    </student>
+    <student>
+      <full_name>Евдокимова Екатерина Павловна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>20</total_works>
+      <completed_works>18</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Антонов Николай Сергеевич</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>25</total_works>
+      <completed_works>20</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Герасимова Мария Дмитриевна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>10</total_works>
+      <completed_works>7</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Никитин Максим Алексеевич</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>12</total_works>
+      <completed_works>8</completed_works>
+      <programming_language>JavaScript</programming_language>
+    </student>
+    <student>
+      <full_name>Миронова Ольга Игоревна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>15</total_works>
+      <completed_works>13</completed_works>
+      <programming_language>C++</programming_language>
+    </student>
+    <student>
+      <full_name>Колесников Андрей Викторович</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>20</total_works>
+      <completed_works>19</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Гаврилова Татьяна Сергеевна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>25</total_works>
+      <completed_works>22</completed_works>
+      <programming_language>Rust</programming_language>
+    </student>
+    <student>
+      <full_name>Сорокин Александр Павлович</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>10</total_works>
+      <completed_works>9</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Калинина Анна Дмитриевна</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>12</total_works>
+      <completed_works>10</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Быков Сергей Игоревич</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>15</total_works>
+      <completed_works>14</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Ларионова Елена Викторовна</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>20</total_works>
+      <completed_works>15</completed_works>
+      <programming_language>JavaScript</programming_language>
+    </student>
+    <student>
+      <full_name>Гусев Денис Александрович</full_name>
+      <course>4</course>
+      <group>421703</group>
+      <total_works>25</total_works>
+      <completed_works>23</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+    <student>
+      <full_name>Панфилова Оксана Владимировна</full_name>
+      <course>4</course>
+      <group>421701</group>
+      <total_works>10</total_works>
+      <completed_works>6</completed_works>
+      <programming_language>Java</programming_language>
+    </student>
+    <student>
+      <full_name>Тарасов Илья Сергеевич</full_name>
+      <course>4</course>
+      <group>421702</group>
+      <total_works>12</total_works>
+      <completed_works>11</completed_works>
+      <programming_language>Python</programming_language>
+    </student>
+  </students>
