@@ -1,0 +1,25 @@
+{
+    "screen": {
+        "width": 800,
+        "height": 600,
+        "caption": "Hangman - Виселица",
+        "fps": 60
+    },
+    "colors": {
+        "background": [30, 30, 30],
+        "text": [255, 255, 255],
+        "button": [70, 130, 180],
+        "button_hover": [100, 150, 200],
+        "correct": [0, 255, 0],
+        "wrong": [255, 0, 0]
+    },
+    "game": {
+        "max_mistakes": 6,
+        "time_limit_mode": 60,
+        "hint_cost": 2
+    },
+    "sound": {
+        "background_volume": 0.5,
+        "effects_volume": 0.7
+    }
+}
